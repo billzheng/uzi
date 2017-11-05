@@ -1,13 +1,21 @@
 install https://github.com/VundleVim/Vundle.vim
 install YouCompleteMe after Vundle, through Vundle plugin
 
-powerline:
+
 powerline font: https://github.com/powerline/fonts
 		git clone https://github.com/powerline/fonts.git --depth=1
 
+https://github.com/banga/powerline-shell
+don't forget add vim to powerline config
 
 vim-airline
 	https://github.com/vim-airline/vim-airline
 
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
+
+perforce
+https://github.com/nfvs/vim-perforce
+https://www.perforce.com/blog/adding-perforce-connection-details-your-bash-shell-prompt
+
+
