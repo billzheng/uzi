@@ -1,0 +1,5 @@
+install https://github.com/VundleVim/Vundle.vim
+install YouCompleteMe after Vundle, through Vundle plugin
+
+
+
